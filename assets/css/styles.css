@@ -1,0 +1,36 @@
+/* etiqueta HTML va directamente el nombre*/
+/* clases van con .*/
+/* ID van con "#" adelante*/
+body{
+    background-color: rgb(114, 194, 167);
+    color: rgb(5, 0, 0);
+}
+#Redes Sociales{
+    text-align: center;
+    margin: auto;
+}
+ul li{
+    list-style-type: none;
+    margin-left: -2%;
+}
+.imgPersonal{
+    border-radius: 100%;
+}
+.nombrePerfil{
+    font-size: 4rem;
+}
+.apellidoPerfil{
+    color: aliceblue;
+}
+.video{
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    margin-left: 0rem;
+    margin-right: 20rem;
+}
+#sobreMi{
+    background-color: rgb(173, 128, 164);
+}
+.logoAP{
+    filter: invert(1);
+}
